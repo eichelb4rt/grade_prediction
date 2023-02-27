@@ -1,0 +1,8 @@
+# IDE
+.vscode
+
+# python stuff
+__pycache__
+
+# output
+possible_grades.txt
